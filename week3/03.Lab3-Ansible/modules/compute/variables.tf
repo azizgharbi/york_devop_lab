@@ -14,7 +14,7 @@ variable "ssh_key_public" {
 variable "ssh_key_private" {
   type    = string
   #Replace this with the location of you private key
-  default = "home/aziz/.ssh/id_rsa"
+  default = "/home/aziz/.ssh/id_rsa"
 }
 
 variable "subnet_ips" {}
