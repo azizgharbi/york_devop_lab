@@ -3,3 +3,4 @@
 * Week 2: terraform + aws :heavy_check_mark:
 * Week 3: terraform + aws + ansible :heavy_check_mark:
 * Week 3: terraform + aws + docker deploying ghost blog + mysql :heavy_check_mark:
+* Week 4: terraform + aws + docker deploying jenkins + docker :heavy_check_mark:
